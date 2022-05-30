@@ -1,8 +1,17 @@
 # Universidade Catolica de Pernambuco
 
-Compilador reduzido para cadeira de Compiladores, UNICAP 2021.2
+Compilador reduzido para disciplina de Compiladores, UNICAP 2021.2
 
 Professor: Tarcísio Lucas
+
+## Equipe
+
+- [Andre Costa](https://github.com/andrecosta20)
+- [Lucas Matos](https://github.com/LucasMatos86)
+- [Pedro Galvão](https://github.com/GalvaoPedro)
+
+
+## Assuntos Abordados 
 
 - [X] Análise léxica:
 - Identificação de token de programas com à linguagem de programação C;
@@ -15,6 +24,6 @@ Professor: Tarcísio Lucas
 - Mensagens de erro personalizadas.
 - [x] Gerador de código intermédiário:
 - Operações aritméticas (ordem de precedência, escopo, elenco).
-- Estruturas (if, celse, while,do while).
+- Estruturas (if, else, while,do while).
 
 
