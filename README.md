@@ -9,7 +9,7 @@ Professor: Tarcísio Lucas
 - [Andre Costa](https://github.com/andrecosta20)
 - [Lucas Matos](https://github.com/LucasMatos86)
 - [Pedro Galvão](https://github.com/GalvaoPedro)
-- [Pedro Silva] (https://github.com/PedroSilvaBarros)
+- [Pedro Silva](https://github.com/PedroSilvaBarros)
 
 ## Assuntos Abordados 
 
